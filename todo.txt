@@ -1,5 +1,6 @@
 my todo list
 
-1. mengerjakan tugas sekolah
-2. membuat discord bot
-3. menyapu dan mengepel rumah
+- membuat discord bot
+- menyapu dan mengepel rumah
+- membaca buku
+- belajar ES6
