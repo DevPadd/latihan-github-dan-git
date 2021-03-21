@@ -1,0 +1,5 @@
+rencana project
+
+- membuat todo list
+- membuat portfolio
+- membuat company profile website
