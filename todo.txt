@@ -1,0 +1,5 @@
+my todo list
+
+1. mengerjakan tugas sekolah
+2. membuat discord bot
+3. menyapu rumah
