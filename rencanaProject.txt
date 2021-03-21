@@ -2,4 +2,9 @@ rencana project
 
 - membuat todo list
 - membuat portfolio
+  * menggunakan vannila css
+  * menggunakan framework
+    * bootstrap
+    * materialize
+    * tailwind
 - membuat company profile website
