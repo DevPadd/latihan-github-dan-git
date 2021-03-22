@@ -4,7 +4,6 @@ rencana project
 - membuat portfolio
   * menggunakan vannila css
   * menggunakan framework
-    * bootstrap
-    * materialize
+    * foundation
     * tailwind
 - membuat company profile website
